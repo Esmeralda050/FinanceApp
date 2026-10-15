@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="FinanceStart.Api/FinanceStart.Api.csproj" />
+  <Project Path="FinanceStart.Application/FinanceStart.Application.csproj" />
+  <Project Path="FinanceStart.Domain/FinanceStart.Domain.csproj" />
+  <Project Path="FinanceStart.Infrastructure/FinanceStart.Infrastructure.csproj" />
+  <Project Path="FinanceStart.Tests/FinanceStart.Tests.csproj" />
+</Solution>
